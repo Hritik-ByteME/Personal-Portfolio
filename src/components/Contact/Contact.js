@@ -141,7 +141,7 @@ const Contact = () => {
                             <ul>
                                 <li> <FontAwesomeIcon icon={faLocationDot} size="2x" /><p><span>Address:&nbsp;&nbsp;</span>Shiddha Aashray, Jaipur (Raj.), 302026</p></li>
                                 <li> <FontAwesomeIcon icon={faPhone} size="2x" /><p><span>Phone:</span>&nbsp;&nbsp;(+91) 967*****57</p></li>
-                                <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>bytemedigitals.info@gmail.com</p></li>
+                                <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>hellboyhritik13055@gmail.com</p></li>
                                 <li> <FontAwesomeIcon icon={faSquareCheck} size="2x" /><span>FREELANCE</span></li>
                             </ul>
                         </div>
