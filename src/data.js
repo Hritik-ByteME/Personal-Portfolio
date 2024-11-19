@@ -12,11 +12,11 @@ export const config = {
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'School website with Admin side Dashboard',
+          heading: 'Malware Detection Tool',
           description:
-            'Project description. This is a simple project in which i just create a school landing website with their admmin side panel.',
+            'Project description. This is a simple project of Cyber Security in which we devloped a tool to detect malware .',
           animationDelay: '500',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://github.com/Hritik-ByteME/Malware-Detection',
           buttonText: 'CHECK OUT',
         },
         {
