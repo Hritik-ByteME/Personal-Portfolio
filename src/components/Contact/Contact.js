@@ -14,7 +14,7 @@ const Contact = () => {
         e.preventDefault(); // Prevent the default form submission
 
         emailjs
-            .sendForm('service_iea21gp', 'template_ceplocj', form.current, 'B8aQfNnZeN7OV6mPC')
+            .sendForm('service_82g32l6', 'template_6m3ljok', form.current, 'HnGlVJ7ijAXw6a84z')
             .then(
                 (result) => {
                     console.log('SUCCESS!', result.text);
