@@ -173,7 +173,7 @@ const Contact = () => {
                             </p>
                             <p className='contact__twitter'>
                                 <a href='https://www.ByteME-Digitals.netlify.app' rel='noopener noreferrer' target='_blank'>
-                                    <button className='byteme-btn'>Visit ByteME</button>
+                                    <button className='byteme-btn'>Visit Goblyte</button>
                                 </a>
                             </p>
                         </div>
