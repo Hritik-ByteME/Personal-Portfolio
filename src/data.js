@@ -20,8 +20,8 @@ export const config = {
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'ByteME Digitals Pvt. Ltd.',
-          description: 'Project description. This is My Startup Project ,I just founded a company named ByteME Digitals Pvt. Ltd. which works for developing websites , mobile apps , web apps , also provide services in the field of Cyber Security and Consultancy',
+          heading: 'Goblyte Digitals Pvt. Ltd.',
+          description: 'Project description. This is My Startup Project ,I just founded a company named Goblyte Digitals Pvt. Ltd. which works for developing websites , mobile apps , web apps , also provide services in the field of Cyber Security and Consultancy',
           animationDelay: '700',
           buttonLink: 'https://codemmit.tech',
           buttonText: 'CHECK OUT',
